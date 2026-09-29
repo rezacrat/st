@@ -6,13 +6,13 @@
   - title    → shown under the video
   - file     → path to your video, relative to this file (drop the .mp4 in /media)
   - poster   → the thumbnail image shown before the video loads/plays
-               (export a .webp/.jpg frame from your own video — see README)
+               (export a .webp/.jpg frame from your own video, see README)
   - tag      → the small grey label next to the title (kept the same for all
-               projects right now: "Educational Content Editing" — change the
+               projects right now: "Educational Content Editing", change the
                constant in app.js if you want one label for everyone, or add
                a "tag" field per project here if you want it to vary)
   - caption  → the expandable text under the project (like an IG/YouTube
-               caption). Write as much as you want — it truncates to 2 lines
+               caption). Write as much as you want, it truncates to 2 lines
                with a "more" button automatically. Put your process notes,
                tools used, the brief, whatever you want a client to read.
 */
